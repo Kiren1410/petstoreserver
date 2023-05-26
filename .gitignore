@@ -1,0 +1,6 @@
+node_modules
+.env
+carts.json
+orders.json
+users.json
+products.json
